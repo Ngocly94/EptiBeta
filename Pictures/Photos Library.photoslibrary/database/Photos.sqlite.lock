@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hostname</key>
+	<string>MacBook-Air-cua-Ngocc.local</string>
+	<key>hostuuid</key>
+	<string>0A80D85B-7A7E-5B8C-B031-AC8E1703E17E</string>
+	<key>pid</key>
+	<integer>27493</integer>
+	<key>processname</key>
+	<string>photolibraryd</string>
+	<key>uid</key>
+	<integer>501</integer>
+</dict>
+</plist>
